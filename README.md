@@ -1,1 +1,1 @@
-# customer.py
+# okyakusama.py
